@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/find.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/save.png</file>
+        <file>images/icon.png</file>
+        <file>images/paste.png</file>
+        <file>images/copy.ico</file>
+        <file>images/cut.ico</file>
+        <file>images/gotocell.ico</file>
+        <file>images/font.png</file>
+        <file>images/color.png</file>
+        <file>images/alignHCenter.png</file>
+        <file>images/alignLeft.png</file>
+        <file>images/alignRight.png</file>
+        <file>images/sort.png</file>
+        <file>images/backgroundColor.png</file>
+        <file>images/showGrid.png</file>
+        <file>images/autoRecalculate.png</file>
+        <file>images/printer.png</file>
+        <file>images/splash.png</file>
+    </qresource>
+</RCC>
